@@ -37,6 +37,7 @@
   grid-template-columns: 1fr;
   grid-gap: 10px;
 }
+
 .nav-wrapper .left-column .contact-hours-wrap .hours {
   font-family: 'Ubuntu Condensed', sans-serif;
   color: #858585;
