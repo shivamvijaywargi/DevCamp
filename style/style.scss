@@ -1,0 +1,18 @@
+// Hero Section Styles
+.hero-section {
+  background-image: url(../../assets/BGs/fries-hero-bg.jpg);
+  padding: 100px;
+  height: 300px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  .top-heading {
+    padding: 1px 20px;
+    background-color: #11122b;
+    color: #cbcbcb;
+    width: 325px;
+    border-radius: 2px;
+  }
+}

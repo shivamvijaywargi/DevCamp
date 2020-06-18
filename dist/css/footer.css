@@ -1,0 +1,79 @@
+.footer-wrapper {
+  background-color: #11122b;
+  height: 400px;
+  font-family: 'Ubuntu Condensed', sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  color: #cbcbcb;
+  margin-top: -4px;
+}
+
+.footer-wrapper > .footer-logo > img {
+  width: 180px;
+  height: 100%;
+  filter: brightness(75%);
+}
+
+.footer-wrapper > .phone-hours {
+  display: flex;
+  justify-content: center;
+  /* padding: 5px 15px; */
+}
+
+.footer-wrapper > .phone-hours > .phone {
+  padding: 0 20px;
+  font-size: 1.3em;
+}
+
+.footer-wrapper > .phone-hours > .hours {
+  font-size: 0.8em;
+  display: flex;
+  /* flex-direction: column; */
+  align-items: center;
+  justify-content: center;
+  color: #cea135;
+}
+
+.footer-wrapper > .nav-links > .nav-link > a {
+  text-decoration: none;
+}
+
+.footer-wrapper > .nav-links {
+  padding: 30px 20px;
+  gap: 55px;
+}
+
+.footer-wrapper > .social-links {
+  display: flex;
+  /* justify-content: space-around; */
+  /* align-items: center; */
+  padding: 35px 25px;
+  gap: 90px;
+}
+
+.footer-wrapper > .social-links > div {
+  font-size: 1.5em;
+}
+
+.footer-wrapper > .social-links > .instagram-icon > a,
+.footer-wrapper > .social-links > .facebook-icon > a,
+.footer-wrapper > .social-links > .twitter-icon > a {
+  color: #cbcbcb;
+}
+
+.footer-wrapper > .social-links > .instagram-icon > a:hover,
+.footer-wrapper > .social-links > .facebook-icon > a:hover,
+.footer-wrapper > .social-links > .twitter-icon > a:hover {
+  color: #cea135;
+}
+
+.footer-wrapper > .copyright {
+  color: #a7a7a7;
+  font-size: 0.8em;
+}
+
+.heart {
+  color: red;
+}
