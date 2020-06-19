@@ -119,6 +119,7 @@
   color: #cbcbcb;
   -webkit-transition: 0.5s;
   transition: 0.5s;
+  text-decoration: none;
 }
 .nav-links .nav-link a:hover {
   color: #cea135;

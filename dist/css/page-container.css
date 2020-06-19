@@ -14,7 +14,7 @@
   width: 350px;
   margin: 23px 40px 20px 0;
   float: left;
-  background: 1px solid #cea135;
+  border: 1px solid #cea135;
 }
 
 .page-container > .content-wrapper > p {
